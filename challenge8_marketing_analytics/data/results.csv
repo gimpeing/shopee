@@ -1,0 +1,6 @@
+classifier,train_accuracy,test_accuracy,f1_score,roc_auc_score
+LogisticRegression,0.8751,0.8757,0.5365,0.7069
+RandomForestClassifier,0.9037,0.862,0.5931,0.7738
+SVM,0.8625,0.8631,0.5875,0.7664
+AdaBoostClassifier,0.8628,0.8633,0.5868,0.7654
+XGBClassifier,0.8702,0.8695,0.5968,0.7678
